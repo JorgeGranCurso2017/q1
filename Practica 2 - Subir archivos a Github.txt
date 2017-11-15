@@ -1,3 +1,7 @@
 Como no encuentro la práctica que hay que realizar ni cómo prepararla para mostrarla, he escrito este archivo que podrás encontrar en la siguiente dirección de github:
 
-<Aun no subido>
+https://github.com/JorgeGranCurso2017/q1/blob/master/Practica%202%20-%20Subir%20archivos%20a%20Github.txt
+
+o en
+
+https://github.com/JorgeGranCurso2017/q1
